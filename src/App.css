@@ -1,0 +1,33 @@
+h1
+{
+    color:pink;
+}
+body{
+    background-image: url('https://images.wallpaperscraft.com/image/book_garland_light_134006_1920x1080.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn1{
+    box-shadow: 0 5px solid;
+    border-radius: 10px;
+    background-color:rgb(130, 240, 157);
+}
+.addBtn{
+    box-shadow: 0 5px solid;
+    border-radius: 10px;
+    background-color:rgb(130, 240, 157);
+    width:100%;
+}
+#lab1{
+    font-size: 20px;
+    color:brown;
+}
+.Addbtn2{
+    box-shadow: 0 5px solid;
+    border-radius: 10px;
+    background-color: rgb(130, 240, 157);
+    margin-left: 100px;
+    width:80vw;
+    height: 2vw;
+    color: black;
+}
