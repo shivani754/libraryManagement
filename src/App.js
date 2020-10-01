@@ -7,25 +7,7 @@ import MainPage from './components/mainPage.jsx';
 import RecentBooksList from './components/recentBooksList.jsx';
 import AddBookForm from './components/addBookForm';
 import EditBooks from './components/editBook.js';
-/*class App extends Component   
-{
-   render(){
-    const mystyle = {     //react css
-        color: "white",
-        backgroundColor: "black",
-        padding: "10px",
-        fontFamily: "Arial",
-        textAlign:"center"
-      }
-      /*return (
-      <div>
-      <h1 style={mystyle}>Welcome to the Library :)</h1>
-      <h1 style={{textAlign:"center"}}>Hey Shivani!!</h1>
-      </div>
-      )*/
-     /* 
-   }
-}*/
+
 class App extends Component
 {
    constructor(){
